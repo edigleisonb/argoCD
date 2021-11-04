@@ -18,3 +18,4 @@ jobs:
           password: ${{ secrets.DOCKER_PASSWORD }}
           repository: edigleisonb/argocd-fullcycle
           tags: ${{ github.sha}}, latest
+          
