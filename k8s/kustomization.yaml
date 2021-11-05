@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: edigleisonb/argocd-fullcycle
-  newTag: 1a6a654b0178b721c33c5a947e31f02d17a2e88a
+  newTag: ef1f67fc29192dea835e0decc5c4263ef5d8fc65
